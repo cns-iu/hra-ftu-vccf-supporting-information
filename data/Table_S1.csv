@@ -1,0 +1,1031 @@
+FTU,FTUID,Vessel,VesselID,PathStep,PathVessel,PathVesselID
+alveolus of lung,UBERON:0002299,alveolar capillary,,-8,right ventricle,UBERON:0002080
+alveolus of lung,UBERON:0002299,alveolar capillary,,-7,pulmonary trunk,UBERON:0002333
+alveolus of lung,UBERON:0002299,alveolar capillary,,-6,left pulmonary artery,UBERON:0001652
+alveolus of lung,UBERON:0002299,alveolar capillary,,-5,segmental pulmonary artery,FMA:8755
+alveolus of lung,UBERON:0002299,alveolar capillary,,-4,subsegmental pulmonary artery,FMA:9311
+alveolus of lung,UBERON:0002299,alveolar capillary,,-3,pulmonary arteriole,FMA:279896
+alveolus of lung,UBERON:0002299,alveolar capillary,,-2,intra-acinar arteriole,
+alveolus of lung,UBERON:0002299,alveolar capillary,,-1,pre-alveolar capillary,
+alveolus of lung,UBERON:0002299,alveolar capillary,,0,alveolar capillary,
+alveolus of lung,UBERON:0002299,alveolar capillary,,1,post-alveolar capillary,
+alveolus of lung,UBERON:0002299,alveolar capillary,,2,intra-acinar venule,
+alveolus of lung,UBERON:0002299,alveolar capillary,,3,pulmonary venule,
+alveolus of lung,UBERON:0002299,alveolar capillary,,4,subsegmental pulmonary vein,FMA:9413
+alveolus of lung,UBERON:0002299,alveolar capillary,,5,segmental pulmonary vein,FMA:9411
+alveolus of lung,UBERON:0002299,alveolar capillary,,6,pulmonary vein,UBERON:0002016
+alveolus of lung,UBERON:0002299,alveolar capillary,,7,left atrium,UBERON:0002079
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,-8,left ventricle,UBERON:0002084
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,-7,aorta,UBERON:0000947
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,-6,ascending aorta,UBERON:0001496
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,-5,aortic arch,UBERON:0001508
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,-4,descending aorta,UBERON:0001514
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,-3,descending thoracic aorta,UBERON:0002345
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,-2,bronchial artery,UBERON:0002040
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,-1,bronchial arteriole,
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,0,bronchial capillary,
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,1,bronchial venule,
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,2,bronchial vein,UBERON:0001592
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,3,accessory hemiazygos vein,UBERON:0006665
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,4,azygos vein,UBERON:0001594
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,5,superior vena cava,UBERON:0001585
+bronchus submucosal gland,UBERON:8410043,bronchial capillary,,6,right atrium,UBERON:0002078
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-15,left ventricle,UBERON:0002084
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-14,aorta,UBERON:0000947
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-13,ascending aorta,UBERON:0001496
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-12,aortic arch,UBERON:0001508
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-11,descending aorta,UBERON:0001514
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-10,descending thoracic aorta,UBERON:0002345
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-9,abdominal aorta,UBERON:0001516
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-8,renal artery,UBERON:0001184
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-7,segmental renal artery,FMA:70494
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-6,interlobar renal artery,UBERON:0009885
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-5,arcuate renal artery,UBERON:0001552
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-4,interlobular renal artery,UBERON:0004723
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-3,renal afferent arteriole,UBERON:0004639
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-2,glomerular capillary,UBERON:0004212
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,-1,renal efferent arteriole,UBERON:0004640
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,0,peritubular capillary,UBERON:0005272
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,1,stellate venule of kidney,FMA:321526
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,2,interlobular renal vein,UBERON:0005168
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,3,arcuate renal vein,UBERON:0004719
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,4,interlobar renal vein,UBERON:0009887
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,5,segmental renal vein,
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,6,renal vein,UBERON:0001140
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,7,inferior vena cava,UBERON:0001072
+cortical collecting duct,UBERON:0004203,peritubular capillary,UBERON:0005272,8,right atrium,UBERON:0002078
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-16,left ventricle,UBERON:0002084
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-15,aorta,UBERON:0000947
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-14,ascending aorta,UBERON:0001496
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-13,aortic arch,UBERON:0001508
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-12,descending aorta,UBERON:0001514
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-11,descending thoracic aorta,UBERON:0002345
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-10,abdominal aorta,UBERON:0001516
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-9,inferior mesenteric artery,UBERON:0001183
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-8,left colic artery,UBERON:8410022
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-7,ascending branch of left colic artery,FMA:14828
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-6,marginal artery of Drummond,FMA:14824
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-5,vasa recta of colon,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-4,long branch of vasa recta of colon,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-3,submucosal artery of colon,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-2,submucosal arteriole of colon,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,-1,mucosal arteriole of colon,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,0,branch of mucous plexus of colon,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,1,mucosal venule of colon,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,2,submucosal venule of colon,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,3,submucosal vein of colon,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,4,vena recta of large intestine,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,5,ileocolic vein,UBERON:0001219
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,6,superior mesenteric vein,UBERON:0001138
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,7,hepatic portal vein,UBERON:0001639
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,8,left hepatic portal vein,FMA:15415
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,9,left lateral hepatic portal vein,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,10,lateral inferior segmental hepatic portal vein,FMA:15432
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,11,hepatic portal venule,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,12,hepatic sinusoid,UBERON:0001281
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,13,central vein of liver,UBERON:0006841
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,14,segmental hepatic vein,
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,15,left hepatic vein,UBERON:0011955
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,16,inferior vena cava,UBERON:0001072
+crypt of Lieberkuhn,UBERON:0001983,branch of mucous plexus of colon,,17,right atrium,UBERON:0002078
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,-11,left ventricle,UBERON:0002084
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,-10,aorta,UBERON:0000947
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,-9,ascending aorta,UBERON:0001496
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,-8,aortic arch,UBERON:0001508
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,-7,subclavian artery,UBERON:0001533
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,-6,axillary artery,UBERON:0001394
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,-5,brachial artery,UBERON:0001398
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,-4,ulnar artery,UBERON:0001406
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,-3,cutaneous branch of ulnar artery,
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,-2,cutaneous arteriole,
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,-1,subpapillary plexus,FMA:280962
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,0,branch of subpapillary plexus,
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,1,cutaneous venule,
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,2,cutaneous branch of ulnar vein,
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,3,ulnar vein,FMA:22950
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,4,brachial vein,UBERON:0001413
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,5,axillary vein,UBERON:0000985
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,6,subclavian vein,UBERON:0001587
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,7,brachiocephalic vein,UBERON:0003711
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,8,superior vena cava,UBERON:0001585
+dermal papilla,UBERON:0000412,branch of subpapillary plexus,,9,right atrium,UBERON:0002078
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-17,left ventricle,UBERON:0002084
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-16,aorta,UBERON:0000947
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-15,ascending aorta,UBERON:0001496
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-14,aortic arch,UBERON:0001508
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-13,descending aorta,UBERON:0001514
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-12,descending thoracic aorta,UBERON:0002345
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-11,abdominal aorta,UBERON:0001516
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-10,renal artery,UBERON:0001184
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-9,segmental renal artery,FMA:70494
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-8,interlobar renal artery,UBERON:0009885
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-7,arcuate renal artery,UBERON:0001552
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-6,interlobular renal artery,UBERON:0004723
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-5,renal afferent arteriole,UBERON:0004639
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-4,glomerular capillary,UBERON:0004212
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-3,renal efferent arteriole,UBERON:0004640
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-2,descending vasa recta of kidney,UBERON:0009202
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,-1,vasa recta of kidney,UBERON:0004726
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,0,ascending vasa recta of kidney,UBERON:0009091
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,1,straight venule of kidney,UBERON:0010181
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,2,interlobular renal vein,UBERON:0005168
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,3,arcuate renal vein,UBERON:0004719
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,4,interlobar renal vein,UBERON:0009887
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,5,segmental renal vein,
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,6,renal vein,UBERON:0001140
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,7,inferior vena cava,UBERON:0001072
+descending limb of loop of Henle,UBERON:0001289,ascending vasa recta of kidney,UBERON:0009091,8,right atrium,UBERON:0002078
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,-11,left ventricle,UBERON:0002084
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,-10,aorta,UBERON:0000947
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,-9,ascending aorta,UBERON:0001496
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,-8,aortic arch,UBERON:0001508
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,-7,subclavian artery,UBERON:0001533
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,-6,axillary artery,UBERON:0001394
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,-5,brachial artery,UBERON:0001398
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,-4,ulnar artery,UBERON:0001406
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,-3,cutaneous branch of ulnar artery,
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,-2,cutaneous arteriole,
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,-1,subpapillary plexus,FMA:280962
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,0,branch of subpapillary plexus,
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,1,cutaneous venule,
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,2,cutaneous branch of ulnar vein,
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,3,ulnar vein,FMA:22950
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,4,brachial vein,UBERON:0001413
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,5,axillary vein,UBERON:0000985
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,6,subclavian vein,UBERON:0001587
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,7,brachiocephalic vein,UBERON:0003711
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,8,superior vena cava,UBERON:0001585
+epidermal ridge of digit,UBERON:0013487,branch of subpapillary plexus,,9,right atrium,UBERON:0002078
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-17,left ventricle,UBERON:0002084
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-16,aorta,UBERON:0000947
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-15,ascending aorta,UBERON:0001496
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-14,aortic arch,UBERON:0001508
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-13,descending aorta,UBERON:0001514
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-12,descending thoracic aorta,UBERON:0002345
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-11,abdominal aorta,UBERON:0001516
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-10,renal artery,UBERON:0001184
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-9,segmental renal artery,FMA:70494
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-8,interlobar renal artery,UBERON:0009885
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-7,arcuate renal artery,UBERON:0001552
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-6,interlobular renal artery,UBERON:0004723
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-5,renal afferent arteriole,UBERON:0004639
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-4,glomerular capillary,UBERON:0004212
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-3,renal efferent arteriole,UBERON:0004640
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-2,descending vasa recta of kidney,UBERON:0009202
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,-1,vasa recta of kidney,UBERON:0004726
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,0,ascending vasa recta of kidney,UBERON:0009091
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,1,straight venule of kidney,UBERON:0010181
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,2,interlobular renal vein,UBERON:0005168
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,3,arcuate renal vein,UBERON:0004719
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,4,interlobar renal vein,UBERON:0009887
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,5,segmental renal vein,
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,6,renal vein,UBERON:0001140
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,7,inferior vena cava,UBERON:0001072
+inner medullary collecting duct,UBERON:0004205,ascending vasa recta of kidney,UBERON:0009091,8,right atrium,UBERON:0002078
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-15,left ventricle,UBERON:0002084
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-14,aorta,UBERON:0000947
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-13,ascending aorta,UBERON:0001496
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-12,aortic arch,UBERON:0001508
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-11,descending aorta,UBERON:0001514
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-10,descending thoracic aorta,UBERON:0002345
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-9,abdominal aorta,UBERON:0001516
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-8,renal artery,UBERON:0001184
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-7,segmental renal artery,FMA:70494
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-6,interlobar renal artery,UBERON:0009885
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-5,arcuate renal artery,UBERON:0001552
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-4,interlobular renal artery,UBERON:0004723
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-3,renal afferent arteriole,UBERON:0004639
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-2,glomerular capillary,UBERON:0004212
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,-1,renal efferent arteriole,UBERON:0004640
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,0,descending vasa recta of kidney,UBERON:0009202
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,1,vasa recta of kidney,UBERON:0004726
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,2,ascending vasa recta of kidney,UBERON:0009091
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,3,straight venule of kidney,UBERON:0010181
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,4,interlobular renal vein,UBERON:0005168
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,5,arcuate renal vein,UBERON:0004719
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,6,interlobar renal vein,UBERON:0009887
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,7,segmental renal vein,
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,8,renal vein,UBERON:0001140
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,9,inferior vena cava,UBERON:0001072
+inner medullary collecting duct,UBERON:0004205,descending vasa recta of kidney,UBERON:0009202,10,right atrium,UBERON:0002078
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-13,left ventricle,UBERON:0002084
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-12,aorta,UBERON:0000947
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-11,ascending aorta,UBERON:0001496
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-10,aortic arch,UBERON:0001508
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-9,descending aorta,UBERON:0001514
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-8,descending thoracic aorta,UBERON:0002345
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-7,abdominal aorta,UBERON:0001516
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-6,celiac artery,UBERON:0001640
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-5,splenic artery,UBERON:0001194
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-4,pancreatic artery,FMA:70471
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-3,interlobular artery of pancreas,
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-2,lobular artery of pancreas,
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,-1,intralobular arteriole of pancreas,
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,0,periductal capillary of intercalated duct of pancreas,
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,1,intralobular venule of pancreas,
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,2,lobular vein of pancreas,
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,3,interlobular vein of pancreas,
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,4,pancreatic vein,FMA:70929
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,5,splenic vein,UBERON:0003713
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,6,hepatic portal vein,UBERON:0001639
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,7,left hepatic portal vein,FMA:15415
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,8,left lateral hepatic portal vein,
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,9,lateral inferior segmental hepatic portal vein,FMA:15432
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,10,hepatic portal venule,
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,11,hepatic sinusoid,UBERON:0001281
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,12,central vein of liver,UBERON:0006841
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,13,segmental hepatic vein,
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,14,left hepatic vein,UBERON:0011955
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,15,inferior vena cava,UBERON:0001072
+intercalated duct,UBERON:0014725,periductal capillary of intercalated duct of pancreas,,16,right atrium,UBERON:0002078
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-12,left ventricle,UBERON:0002084
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-11,aorta,UBERON:0000947
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-10,ascending aorta,UBERON:0001496
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-9,aortic arch,UBERON:0001508
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-8,descending aorta,UBERON:0001514
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-7,descending thoracic aorta,UBERON:0002345
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-6,abdominal aorta,UBERON:0001516
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-5,superior mesenteric artery,UBERON:0001182
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-4,jejunal branches,UBERON:0018255
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-3,jejunal arcade,
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-2,vasa recta of jejunum,
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,-1,mucous plexus of small intestine,FMA:264945
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,0,branch of mucous plexus of small intestine,
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,1,jejunal vein,UBERON:0001216
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,2,superior mesenteric vein,UBERON:0001138
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,3,hepatic portal vein,UBERON:0001639
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,4,left hepatic portal vein,FMA:15415
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,5,left lateral hepatic portal vein,
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,6,lateral inferior segmental hepatic portal vein,FMA:15432
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,7,hepatic portal venule,
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,8,hepatic sinusoid,UBERON:0001281
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,9,central vein of liver,UBERON:0006841
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,10,segmental hepatic vein,
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,11,left hepatic vein,UBERON:0011955
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,12,inferior vena cava,UBERON:0001072
+intestinal villus,UBERON:0001213,branch of mucous plexus of small intestine,,13,right atrium,UBERON:0002078
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-14,left ventricle,UBERON:0002084
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-13,aorta,UBERON:0000947
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-12,ascending aorta,UBERON:0001496
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-11,aortic arch,UBERON:0001508
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-10,descending aorta,UBERON:0001514
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-9,descending thoracic aorta,UBERON:0002345
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-8,abdominal aorta,UBERON:0001516
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-7,celiac artery,UBERON:0001640
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-6,splenic artery,UBERON:0001194
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-5,pancreatic artery,FMA:70471
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-4,interlobular artery of pancreas,
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-3,lobular artery of pancreas,
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-2,intralobular arteriole of pancreas,
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,-1,pancreatic islet afferent arteriole,
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,0,pancreatic islet capillary,FMA:280080
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,1,intralobular venule of pancreas,
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,2,lobular vein of pancreas,
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,3,interlobular vein of pancreas,
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,4,pancreatic vein,FMA:70929
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,5,splenic vein,UBERON:0003713
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,6,hepatic portal vein,UBERON:0001639
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,7,left hepatic portal vein,FMA:15415
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,8,left lateral hepatic portal vein,
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,9,lateral inferior segmental hepatic portal vein,FMA:15432
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,10,hepatic portal venule,
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,11,hepatic sinusoid,UBERON:0001281
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,12,central vein of liver,UBERON:0006841
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,13,segmental hepatic vein,
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,14,left hepatic vein,UBERON:0011955
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,15,inferior vena cava,UBERON:0001072
+islet of Langerhans,UBERON:0000006,pancreatic islet capillary,fma280080,16,right atrium,UBERON:0002078
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-14,left ventricle,UBERON:0002084
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-13,aorta,UBERON:0000947
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-12,ascending aorta,UBERON:0001496
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-11,aortic arch,UBERON:0001508
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-10,descending aorta,UBERON:0001514
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-9,descending thoracic aorta,UBERON:0002345
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-8,abdominal aorta,UBERON:0001516
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-7,celiac artery,UBERON:0001640
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-6,common hepatic artery,UBERON:0005436
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-5,proper hepatic artery,UBERON:0015480
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-4,left hepatic artery,UBERON:0015481
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-3,segmental hepatic artery,
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-2,hepatic arteriole,
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,-1,hepatic sinusoid,UBERON:0001281
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,0,central vein of liver,UBERON:0006841
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,1,segmental hepatic vein,
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,2,left hepatic vein,UBERON:0011955
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,3,inferior vena cava,UBERON:0001072
+liver lobule,UBERON:0004647,central vein of liver,UBERON:0006841,4,right atrium,UBERON:0002078
+liver lobule,UBERON:0004647,hepatic arteriole,,-12,left ventricle,UBERON:0002084
+liver lobule,UBERON:0004647,hepatic arteriole,,-11,aorta,UBERON:0000947
+liver lobule,UBERON:0004647,hepatic arteriole,,-10,ascending aorta,UBERON:0001496
+liver lobule,UBERON:0004647,hepatic arteriole,,-9,aortic arch,UBERON:0001508
+liver lobule,UBERON:0004647,hepatic arteriole,,-8,descending aorta,UBERON:0001514
+liver lobule,UBERON:0004647,hepatic arteriole,,-7,descending thoracic aorta,UBERON:0002345
+liver lobule,UBERON:0004647,hepatic arteriole,,-6,abdominal aorta,UBERON:0001516
+liver lobule,UBERON:0004647,hepatic arteriole,,-5,celiac artery,UBERON:0001640
+liver lobule,UBERON:0004647,hepatic arteriole,,-4,common hepatic artery,UBERON:0005436
+liver lobule,UBERON:0004647,hepatic arteriole,,-3,proper hepatic artery,UBERON:0015480
+liver lobule,UBERON:0004647,hepatic arteriole,,-2,left hepatic artery,UBERON:0015481
+liver lobule,UBERON:0004647,hepatic arteriole,,-1,segmental hepatic artery,
+liver lobule,UBERON:0004647,hepatic arteriole,,0,hepatic arteriole,
+liver lobule,UBERON:0004647,hepatic arteriole,,1,hepatic sinusoid,UBERON:0001281
+liver lobule,UBERON:0004647,hepatic arteriole,,2,central vein of liver,UBERON:0006841
+liver lobule,UBERON:0004647,hepatic arteriole,,3,segmental hepatic vein,
+liver lobule,UBERON:0004647,hepatic arteriole,,4,left hepatic vein,UBERON:0011955
+liver lobule,UBERON:0004647,hepatic arteriole,,5,inferior vena cava,UBERON:0001072
+liver lobule,UBERON:0004647,hepatic arteriole,,6,right atrium,UBERON:0002078
+liver lobule,UBERON:0004647,hepatic portal venule,,-24,left ventricle,UBERON:0002084
+liver lobule,UBERON:0004647,hepatic portal venule,,-23,aorta,UBERON:0000947
+liver lobule,UBERON:0004647,hepatic portal venule,,-22,ascending aorta,UBERON:0001496
+liver lobule,UBERON:0004647,hepatic portal venule,,-21,aortic arch,UBERON:0001508
+liver lobule,UBERON:0004647,hepatic portal venule,,-20,descending aorta,UBERON:0001514
+liver lobule,UBERON:0004647,hepatic portal venule,,-19,descending thoracic aorta,UBERON:0002345
+liver lobule,UBERON:0004647,hepatic portal venule,,-18,abdominal aorta,UBERON:0001516
+liver lobule,UBERON:0004647,hepatic portal venule,,-17,celiac artery,UBERON:0001640
+liver lobule,UBERON:0004647,hepatic portal venule,,-16,splenic artery,UBERON:0001194
+liver lobule,UBERON:0004647,hepatic portal venule,,-15,lobar artery of spleen,
+liver lobule,UBERON:0004647,hepatic portal venule,,-14,segmental branch of lobar artery of spleen,
+liver lobule,UBERON:0004647,hepatic portal venule,,-13,spleen trabecular artery,UBERON:0010399
+liver lobule,UBERON:0004647,hepatic portal venule,,-12,spleen central arteriole,UBERON:0010401
+liver lobule,UBERON:0004647,hepatic portal venule,,-11,non-penicillar arteriole of spleen,
+liver lobule,UBERON:0004647,hepatic portal venule,,-10,sheathed capillary of spleen,
+liver lobule,UBERON:0004647,hepatic portal venule,,-9,post-sheath open capillary of spleen,
+liver lobule,UBERON:0004647,hepatic portal venule,,-8,splenic venous sinusoid,UBERON:0003910
+liver lobule,UBERON:0004647,hepatic portal venule,,-7,red pulp venule of spleen,
+liver lobule,UBERON:0004647,hepatic portal venule,,-6,spleen trabecular vein,UBERON:0010400
+liver lobule,UBERON:0004647,hepatic portal venule,,-5,splenic vein,UBERON:0003713
+liver lobule,UBERON:0004647,hepatic portal venule,,-4,hepatic portal vein,UBERON:0001639
+liver lobule,UBERON:0004647,hepatic portal venule,,-3,left hepatic portal vein,FMA:15415
+liver lobule,UBERON:0004647,hepatic portal venule,,-2,left lateral hepatic portal vein,
+liver lobule,UBERON:0004647,hepatic portal venule,,-1,lateral inferior segmental hepatic portal vein,FMA:15432
+liver lobule,UBERON:0004647,hepatic portal venule,,0,hepatic portal venule,
+liver lobule,UBERON:0004647,hepatic portal venule,,1,hepatic sinusoid,UBERON:0001281
+liver lobule,UBERON:0004647,hepatic portal venule,,2,central vein of liver,UBERON:0006841
+liver lobule,UBERON:0004647,hepatic portal venule,,3,segmental hepatic vein,
+liver lobule,UBERON:0004647,hepatic portal venule,,4,left hepatic vein,UBERON:0011955
+liver lobule,UBERON:0004647,hepatic portal venule,,5,inferior vena cava,UBERON:0001072
+liver lobule,UBERON:0004647,hepatic portal venule,,6,right atrium,UBERON:0002078
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-13,left ventricle,UBERON:0002084
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-12,aorta,UBERON:0000947
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-11,ascending aorta,UBERON:0001496
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-10,aortic arch,UBERON:0001508
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-9,descending aorta,UBERON:0001514
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-8,descending thoracic aorta,UBERON:0002345
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-7,abdominal aorta,UBERON:0001516
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-6,celiac artery,UBERON:0001640
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-5,common hepatic artery,UBERON:0005436
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-4,proper hepatic artery,UBERON:0015480
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-3,left hepatic artery,UBERON:0015481
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-2,segmental hepatic artery,
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,-1,hepatic arteriole,
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,0,hepatic sinusoid,UBERON:0001281
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,1,central vein of liver,UBERON:0006841
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,2,segmental hepatic vein,
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,3,left hepatic vein,UBERON:0011955
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,4,inferior vena cava,UBERON:0001072
+liver lobule,UBERON:0004647,hepatic sinusoid,UBERON:0001281,5,right atrium,UBERON:0002078
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-16,left ventricle,UBERON:0002084
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-15,aorta,UBERON:0000947
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-14,ascending aorta,UBERON:0001496
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-13,aortic arch,UBERON:0001508
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-12,descending aorta,UBERON:0001514
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-11,descending thoracic aorta,UBERON:0002345
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-10,abdominal aorta,UBERON:0001516
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-9,renal artery,UBERON:0001184
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-8,segmental renal artery,FMA:70494
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-7,interlobar renal artery,UBERON:0009885
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-6,arcuate renal artery,UBERON:0001552
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-5,interlobular renal artery,UBERON:0004723
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-4,renal afferent arteriole,UBERON:0004639
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-3,glomerular capillary,UBERON:0004212
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-2,renal efferent arteriole,UBERON:0004640
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,-1,descending vasa recta of kidney,UBERON:0009202
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,0,vasa recta of kidney,UBERON:0004726
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,1,ascending vasa recta of kidney,UBERON:0009091
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,2,straight venule of kidney,UBERON:0010181
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,3,interlobular renal vein,UBERON:0005168
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,4,arcuate renal vein,UBERON:0004719
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,5,interlobar renal vein,UBERON:0009887
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,6,segmental renal vein,
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,7,renal vein,UBERON:0001140
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,8,inferior vena cava,UBERON:0001072
+loop of Henle ascending limb thin segment,UBERON:0004193,vasa recta of kidney,UBERON:0004726,9,right atrium,UBERON:0002078
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-17,left ventricle,UBERON:0002084
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-16,aorta,UBERON:0000947
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-15,ascending aorta,UBERON:0001496
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-14,aortic arch,UBERON:0001508
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-13,descending aorta,UBERON:0001514
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-12,descending thoracic aorta,UBERON:0002345
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-11,abdominal aorta,UBERON:0001516
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-10,renal artery,UBERON:0001184
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-9,segmental renal artery,FMA:70494
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-8,interlobar renal artery,UBERON:0009885
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-7,arcuate renal artery,UBERON:0001552
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-6,interlobular renal artery,UBERON:0004723
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-5,renal afferent arteriole,UBERON:0004639
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-4,glomerular capillary,UBERON:0004212
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-3,renal efferent arteriole,UBERON:0004640
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-2,descending vasa recta of kidney,UBERON:0009202
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,-1,vasa recta of kidney,UBERON:0004726
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,0,ascending vasa recta of kidney,UBERON:0009091
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,1,straight venule of kidney,UBERON:0010181
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,2,interlobular renal vein,UBERON:0005168
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,3,arcuate renal vein,UBERON:0004719
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,4,interlobar renal vein,UBERON:0009887
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,5,segmental renal vein,
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,6,renal vein,UBERON:0001140
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,7,inferior vena cava,UBERON:0001072
+nephron,UBERON:0001285,ascending vasa recta of kidney,UBERON:0009091,8,right atrium,UBERON:0002078
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-15,left ventricle,UBERON:0002084
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-14,aorta,UBERON:0000947
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-13,ascending aorta,UBERON:0001496
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-12,aortic arch,UBERON:0001508
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-11,descending aorta,UBERON:0001514
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-10,descending thoracic aorta,UBERON:0002345
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-9,abdominal aorta,UBERON:0001516
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-8,renal artery,UBERON:0001184
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-7,segmental renal artery,FMA:70494
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-6,interlobar renal artery,UBERON:0009885
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-5,arcuate renal artery,UBERON:0001552
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-4,interlobular renal artery,UBERON:0004723
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-3,renal afferent arteriole,UBERON:0004639
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-2,glomerular capillary,UBERON:0004212
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,-1,renal efferent arteriole,UBERON:0004640
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,0,descending vasa recta of kidney,UBERON:0009202
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,1,vasa recta of kidney,UBERON:0004726
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,2,ascending vasa recta of kidney,UBERON:0009091
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,3,straight venule of kidney,UBERON:0010181
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,4,interlobular renal vein,UBERON:0005168
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,5,arcuate renal vein,UBERON:0004719
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,6,interlobar renal vein,UBERON:0009887
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,7,segmental renal vein,
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,8,renal vein,UBERON:0001140
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,9,inferior vena cava,UBERON:0001072
+nephron,UBERON:0001285,descending vasa recta of kidney,UBERON:0009202,10,right atrium,UBERON:0002078
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-13,left ventricle,UBERON:0002084
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-12,aorta,UBERON:0000947
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-11,ascending aorta,UBERON:0001496
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-10,aortic arch,UBERON:0001508
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-9,descending aorta,UBERON:0001514
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-8,descending thoracic aorta,UBERON:0002345
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-7,abdominal aorta,UBERON:0001516
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-6,renal artery,UBERON:0001184
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-5,segmental renal artery,FMA:70494
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-4,interlobar renal artery,UBERON:0009885
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-3,arcuate renal artery,UBERON:0001552
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-2,interlobular renal artery,UBERON:0004723
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,-1,renal afferent arteriole,UBERON:0004639
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,0,glomerular capillary,UBERON:0004212
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,1,renal efferent arteriole,UBERON:0004640
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,2,descending vasa recta of kidney,UBERON:0009202
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,3,vasa recta of kidney,UBERON:0004726
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,4,ascending vasa recta of kidney,UBERON:0009091
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,5,straight venule of kidney,UBERON:0010181
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,6,interlobular renal vein,UBERON:0005168
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,7,arcuate renal vein,UBERON:0004719
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,8,interlobar renal vein,UBERON:0009887
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,9,segmental renal vein,
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,10,renal vein,UBERON:0001140
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,11,inferior vena cava,UBERON:0001072
+nephron,UBERON:0001285,glomerular capillary,UBERON:0004212,12,right atrium,UBERON:0002078
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-15,left ventricle,UBERON:0002084
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-14,aorta,UBERON:0000947
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-13,ascending aorta,UBERON:0001496
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-12,aortic arch,UBERON:0001508
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-11,descending aorta,UBERON:0001514
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-10,descending thoracic aorta,UBERON:0002345
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-9,abdominal aorta,UBERON:0001516
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-8,renal artery,UBERON:0001184
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-7,segmental renal artery,FMA:70494
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-6,interlobar renal artery,UBERON:0009885
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-5,arcuate renal artery,UBERON:0001552
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-4,interlobular renal artery,UBERON:0004723
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-3,renal afferent arteriole,UBERON:0004639
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-2,glomerular capillary,UBERON:0004212
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,-1,renal efferent arteriole,UBERON:0004640
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,0,peritubular capillary,UBERON:0005272
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,1,stellate venule of kidney,FMA:321526
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,2,interlobular renal vein,UBERON:0005168
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,3,arcuate renal vein,UBERON:0004719
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,4,interlobar renal vein,UBERON:0009887
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,5,segmental renal vein,
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,6,renal vein,UBERON:0001140
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,7,inferior vena cava,UBERON:0001072
+nephron,UBERON:0001285,peritubular capillary,UBERON:0005272,8,right atrium,UBERON:0002078
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-12,left ventricle,UBERON:0002084
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-11,aorta,UBERON:0000947
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-10,ascending aorta,UBERON:0001496
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-9,aortic arch,UBERON:0001508
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-8,descending aorta,UBERON:0001514
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-7,descending thoracic aorta,UBERON:0002345
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-6,abdominal aorta,UBERON:0001516
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-5,renal artery,UBERON:0001184
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-4,segmental renal artery,FMA:70494
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-3,interlobar renal artery,UBERON:0009885
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-2,arcuate renal artery,UBERON:0001552
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,-1,interlobular renal artery,UBERON:0004723
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,0,renal afferent arteriole,UBERON:0004639
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,1,glomerular capillary,UBERON:0004212
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,2,renal efferent arteriole,UBERON:0004640
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,3,descending vasa recta of kidney,UBERON:0009202
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,4,vasa recta of kidney,UBERON:0004726
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,5,ascending vasa recta of kidney,UBERON:0009091
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,6,straight venule of kidney,UBERON:0010181
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,7,interlobular renal vein,UBERON:0005168
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,8,arcuate renal vein,UBERON:0004719
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,9,interlobar renal vein,UBERON:0009887
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,10,segmental renal vein,
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,11,renal vein,UBERON:0001140
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,12,inferior vena cava,UBERON:0001072
+nephron,UBERON:0001285,renal afferent arteriole,UBERON:0004639,13,right atrium,UBERON:0002078
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-14,left ventricle,UBERON:0002084
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-13,aorta,UBERON:0000947
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-12,ascending aorta,UBERON:0001496
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-11,aortic arch,UBERON:0001508
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-10,descending aorta,UBERON:0001514
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-9,descending thoracic aorta,UBERON:0002345
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-8,abdominal aorta,UBERON:0001516
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-7,renal artery,UBERON:0001184
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-6,segmental renal artery,FMA:70494
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-5,interlobar renal artery,UBERON:0009885
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-4,arcuate renal artery,UBERON:0001552
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-3,interlobular renal artery,UBERON:0004723
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-2,renal afferent arteriole,UBERON:0004639
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,-1,glomerular capillary,UBERON:0004212
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,0,renal efferent arteriole,UBERON:0004640
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,1,descending vasa recta of kidney,UBERON:0009202
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,2,vasa recta of kidney,UBERON:0004726
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,3,ascending vasa recta of kidney,UBERON:0009091
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,4,straight venule of kidney,UBERON:0010181
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,5,interlobular renal vein,UBERON:0005168
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,6,arcuate renal vein,UBERON:0004719
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,7,interlobar renal vein,UBERON:0009887
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,8,segmental renal vein,
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,9,renal vein,UBERON:0001140
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,10,inferior vena cava,UBERON:0001072
+nephron,UBERON:0001285,renal efferent arteriole,UBERON:0004640,11,right atrium,UBERON:0002078
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-16,left ventricle,UBERON:0002084
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-15,aorta,UBERON:0000947
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-14,ascending aorta,UBERON:0001496
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-13,aortic arch,UBERON:0001508
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-12,descending aorta,UBERON:0001514
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-11,descending thoracic aorta,UBERON:0002345
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-10,abdominal aorta,UBERON:0001516
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-9,renal artery,UBERON:0001184
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-8,segmental renal artery,FMA:70494
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-7,interlobar renal artery,UBERON:0009885
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-6,arcuate renal artery,UBERON:0001552
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-5,interlobular renal artery,UBERON:0004723
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-4,renal afferent arteriole,UBERON:0004639
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-3,glomerular capillary,UBERON:0004212
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-2,renal efferent arteriole,UBERON:0004640
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,-1,descending vasa recta of kidney,UBERON:0009202
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,0,vasa recta of kidney,UBERON:0004726
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,1,ascending vasa recta of kidney,UBERON:0009091
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,2,straight venule of kidney,UBERON:0010181
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,3,interlobular renal vein,UBERON:0005168
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,4,arcuate renal vein,UBERON:0004719
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,5,interlobar renal vein,UBERON:0009887
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,6,segmental renal vein,
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,7,renal vein,UBERON:0001140
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,8,inferior vena cava,UBERON:0001072
+nephron,UBERON:0001285,vasa recta of kidney,UBERON:0004726,9,right atrium,UBERON:0002078
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-17,left ventricle,UBERON:0002084
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-16,aorta,UBERON:0000947
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-15,ascending aorta,UBERON:0001496
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-14,aortic arch,UBERON:0001508
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-13,descending aorta,UBERON:0001514
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-12,descending thoracic aorta,UBERON:0002345
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-11,abdominal aorta,UBERON:0001516
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-10,renal artery,UBERON:0001184
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-9,segmental renal artery,FMA:70494
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-8,interlobar renal artery,UBERON:0009885
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-7,arcuate renal artery,UBERON:0001552
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-6,interlobular renal artery,UBERON:0004723
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-5,renal afferent arteriole,UBERON:0004639
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-4,glomerular capillary,UBERON:0004212
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-3,renal efferent arteriole,UBERON:0004640
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-2,descending vasa recta of kidney,UBERON:0009202
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,-1,vasa recta of kidney,UBERON:0004726
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,0,ascending vasa recta of kidney,UBERON:0009091
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,1,straight venule of kidney,UBERON:0010181
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,2,interlobular renal vein,UBERON:0005168
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,3,arcuate renal vein,UBERON:0004719
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,4,interlobar renal vein,UBERON:0009887
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,5,segmental renal vein,
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,6,renal vein,UBERON:0001140
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,7,inferior vena cava,UBERON:0001072
+outer medullary collecting duct,UBERON:0004204,ascending vasa recta of kidney,UBERON:0009091,8,right atrium,UBERON:0002078
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-15,left ventricle,UBERON:0002084
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-14,aorta,UBERON:0000947
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-13,ascending aorta,UBERON:0001496
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-12,aortic arch,UBERON:0001508
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-11,descending aorta,UBERON:0001514
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-10,descending thoracic aorta,UBERON:0002345
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-9,abdominal aorta,UBERON:0001516
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-8,renal artery,UBERON:0001184
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-7,segmental renal artery,FMA:70494
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-6,interlobar renal artery,UBERON:0009885
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-5,arcuate renal artery,UBERON:0001552
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-4,interlobular renal artery,UBERON:0004723
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-3,renal afferent arteriole,UBERON:0004639
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-2,glomerular capillary,UBERON:0004212
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,-1,renal efferent arteriole,UBERON:0004640
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,0,descending vasa recta of kidney,UBERON:0009202
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,1,vasa recta of kidney,UBERON:0004726
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,2,ascending vasa recta of kidney,UBERON:0009091
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,3,straight venule of kidney,UBERON:0010181
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,4,interlobular renal vein,UBERON:0005168
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,5,arcuate renal vein,UBERON:0004719
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,6,interlobar renal vein,UBERON:0009887
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,7,segmental renal vein,
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,8,renal vein,UBERON:0001140
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,9,inferior vena cava,UBERON:0001072
+outer medullary collecting duct,UBERON:0004204,descending vasa recta of kidney,UBERON:0009202,10,right atrium,UBERON:0002078
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-12,left ventricle,UBERON:0002084
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-11,aorta,UBERON:0000947
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-10,ascending aorta,UBERON:0001496
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-9,aortic arch,UBERON:0001508
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-8,descending aorta,UBERON:0001514
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-7,descending thoracic aorta,UBERON:0002345
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-6,abdominal aorta,UBERON:0001516
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-5,celiac artery,UBERON:0001640
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-4,splenic artery,UBERON:0001194
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-3,pancreatic artery,FMA:70471
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-2,interlobular artery of pancreas,
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,-1,lobular artery of pancreas,
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,0,intralobular arteriole of pancreas,
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,1,periductal capillary of intercalated duct of pancreas,
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,2,intralobular venule of pancreas,
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,3,lobular vein of pancreas,
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,4,interlobular vein of pancreas,
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,5,pancreatic vein,FMA:70929
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,6,splenic vein,UBERON:0003713
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,7,hepatic portal vein,UBERON:0001639
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,8,left hepatic portal vein,FMA:15415
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,9,left lateral hepatic portal vein,
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,10,lateral inferior segmental hepatic portal vein,FMA:15432
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,11,hepatic portal venule,
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,12,hepatic sinusoid,UBERON:0001281
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,13,central vein of liver,UBERON:0006841
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,14,segmental hepatic vein,
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,15,left hepatic vein,UBERON:0011955
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,16,inferior vena cava,UBERON:0001072
+pancreatic acinus,UBERON:0001263,intralobular arteriole of pancreas,,17,right atrium,UBERON:0002078
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-13,left ventricle,UBERON:0002084
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-12,aorta,UBERON:0000947
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-11,ascending aorta,UBERON:0001496
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-10,aortic arch,UBERON:0001508
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-9,descending aorta,UBERON:0001514
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-8,descending thoracic aorta,UBERON:0002345
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-7,abdominal aorta,UBERON:0001516
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-6,celiac artery,UBERON:0001640
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-5,splenic artery,UBERON:0001194
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-4,pancreatic artery,FMA:70471
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-3,interlobular artery of pancreas,
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-2,lobular artery of pancreas,
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,-1,intralobular arteriole of pancreas,
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,0,lobular capillary of pancreas,
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,1,intralobular venule of pancreas,
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,2,lobular vein of pancreas,
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,3,interlobular vein of pancreas,
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,4,pancreatic vein,FMA:70929
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,5,splenic vein,UBERON:0003713
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,6,hepatic portal vein,UBERON:0001639
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,7,left hepatic portal vein,FMA:15415
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,8,left lateral hepatic portal vein,
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,9,lateral inferior segmental hepatic portal vein,FMA:15432
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,10,hepatic portal venule,
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,11,hepatic sinusoid,UBERON:0001281
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,12,central vein of liver,UBERON:0006841
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,13,segmental hepatic vein,
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,14,left hepatic vein,UBERON:0011955
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,15,inferior vena cava,UBERON:0001072
+pancreatic acinus,UBERON:0001263,lobular capillary of pancreas,,16,right atrium,UBERON:0002078
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-13,left ventricle,UBERON:0002084
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-12,aorta,UBERON:0000947
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-11,ascending aorta,UBERON:0001496
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-10,aortic arch,UBERON:0001508
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-9,descending aorta,UBERON:0001514
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-8,descending thoracic aorta,UBERON:0002345
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-7,abdominal aorta,UBERON:0001516
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-6,common iliac artery,UBERON:0001191
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-5,internal iliac artery,UBERON:0001309
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-4,anterior division of internal iliac artery,FMA:69797
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-3,inferior vesical artery,UBERON:0001311
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-2,prostatic artery,FMA:20966
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,-1,prostatic arteriole,
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,0,prostatic capillary,FMA:280966
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,1,prostatic venule,
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,2,prostatic venous plexus,UBERON:0009042
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,3,inferior vesical vein,UBERON:0001318
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,4,internal iliac vein,UBERON:0001317
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,5,common iliac vein,UBERON:0001139
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,6,inferior vena cava,UBERON:0001072
+prostate glandular acinus,UBERON:0004179,prostatic capillary,fma280966,7,right atrium,UBERON:0002078
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-15,left ventricle,UBERON:0002084
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-14,aorta,UBERON:0000947
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-13,ascending aorta,UBERON:0001496
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-12,aortic arch,UBERON:0001508
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-11,descending aorta,UBERON:0001514
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-10,descending thoracic aorta,UBERON:0002345
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-9,abdominal aorta,UBERON:0001516
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-8,celiac artery,UBERON:0001640
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-7,splenic artery,UBERON:0001194
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-6,lobar artery of spleen,
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-5,segmental branch of lobar artery of spleen,
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-4,spleen trabecular artery,UBERON:0010399
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-3,spleen central arteriole,UBERON:0010401
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-2,non-penicillar arteriole of spleen,
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,-1,sheathed capillary of spleen,
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,0,post-sheath open capillary of spleen,
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,1,splenic venous sinusoid,UBERON:0003910
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,2,red pulp venule of spleen,
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,3,spleen trabecular vein,UBERON:0010400
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,4,splenic vein,UBERON:0003713
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,5,hepatic portal vein,UBERON:0001639
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,6,left hepatic portal vein,FMA:15415
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,7,left lateral hepatic portal vein,
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,8,lateral inferior segmental hepatic portal vein,FMA:15432
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,9,hepatic portal venule,
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,10,hepatic sinusoid,UBERON:0001281
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,11,central vein of liver,UBERON:0006841
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,12,segmental hepatic vein,
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,13,left hepatic vein,UBERON:0011955
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,14,inferior vena cava,UBERON:0001072
+red pulp of spleen,UBERON:0001250,post-sheath open capillary of spleen,,15,right atrium,UBERON:0002078
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-17,left ventricle,UBERON:0002084
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-16,aorta,UBERON:0000947
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-15,ascending aorta,UBERON:0001496
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-14,aortic arch,UBERON:0001508
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-13,descending aorta,UBERON:0001514
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-12,descending thoracic aorta,UBERON:0002345
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-11,abdominal aorta,UBERON:0001516
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-10,celiac artery,UBERON:0001640
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-9,splenic artery,UBERON:0001194
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-8,lobar artery of spleen,
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-7,segmental branch of lobar artery of spleen,
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-6,spleen trabecular artery,UBERON:0010399
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-5,spleen central arteriole,UBERON:0010401
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-4,non-penicillar arteriole of spleen,
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-3,sheathed capillary of spleen,
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-2,post-sheath open capillary of spleen,
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,-1,splenic venous sinusoid,UBERON:0003910
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,0,red pulp venule of spleen,
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,1,spleen trabecular vein,UBERON:0010400
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,2,splenic vein,UBERON:0003713
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,3,hepatic portal vein,UBERON:0001639
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,4,left hepatic portal vein,FMA:15415
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,5,left lateral hepatic portal vein,
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,6,lateral inferior segmental hepatic portal vein,FMA:15432
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,7,hepatic portal venule,
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,8,hepatic sinusoid,UBERON:0001281
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,9,central vein of liver,UBERON:0006841
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,10,segmental hepatic vein,
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,11,left hepatic vein,UBERON:0011955
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,12,inferior vena cava,UBERON:0001072
+red pulp of spleen,UBERON:0001250,red pulp venule of spleen,,13,right atrium,UBERON:0002078
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-16,left ventricle,UBERON:0002084
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-15,aorta,UBERON:0000947
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-14,ascending aorta,UBERON:0001496
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-13,aortic arch,UBERON:0001508
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-12,descending aorta,UBERON:0001514
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-11,descending thoracic aorta,UBERON:0002345
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-10,abdominal aorta,UBERON:0001516
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-9,celiac artery,UBERON:0001640
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-8,splenic artery,UBERON:0001194
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-7,lobar artery of spleen,
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-6,segmental branch of lobar artery of spleen,
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-5,spleen trabecular artery,UBERON:0010399
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-4,spleen central arteriole,UBERON:0010401
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-3,non-penicillar arteriole of spleen,
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-2,sheathed capillary of spleen,
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,-1,post-sheath open capillary of spleen,
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,0,splenic venous sinusoid,UBERON:0003910
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,1,red pulp venule of spleen,
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,2,spleen trabecular vein,UBERON:0010400
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,3,splenic vein,UBERON:0003713
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,4,hepatic portal vein,UBERON:0001639
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,5,left hepatic portal vein,FMA:15415
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,6,left lateral hepatic portal vein,
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,7,lateral inferior segmental hepatic portal vein,FMA:15432
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,8,hepatic portal venule,
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,9,hepatic sinusoid,UBERON:0001281
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,10,central vein of liver,UBERON:0006841
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,11,segmental hepatic vein,
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,12,left hepatic vein,UBERON:0011955
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,13,inferior vena cava,UBERON:0001072
+red pulp of spleen,UBERON:0001250,splenic venous sinusoid,UBERON:0003910,14,right atrium,UBERON:0002078
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-13,left ventricle,UBERON:0002084
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-12,aorta,UBERON:0000947
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-11,ascending aorta,UBERON:0001496
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-10,aortic arch,UBERON:0001508
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-9,descending aorta,UBERON:0001514
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-8,descending thoracic aorta,UBERON:0002345
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-7,abdominal aorta,UBERON:0001516
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-6,renal artery,UBERON:0001184
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-5,segmental renal artery,FMA:70494
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-4,interlobar renal artery,UBERON:0009885
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-3,arcuate renal artery,UBERON:0001552
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-2,interlobular renal artery,UBERON:0004723
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,-1,renal afferent arteriole,UBERON:0004639
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,0,glomerular capillary,UBERON:0004212
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,1,renal efferent arteriole,UBERON:0004640
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,2,descending vasa recta of kidney,UBERON:0009202
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,3,vasa recta of kidney,UBERON:0004726
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,4,ascending vasa recta of kidney,UBERON:0009091
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,5,straight venule of kidney,UBERON:0010181
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,6,interlobular renal vein,UBERON:0005168
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,7,arcuate renal vein,UBERON:0004719
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,8,interlobar renal vein,UBERON:0009887
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,9,segmental renal vein,
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,10,renal vein,UBERON:0001140
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,11,inferior vena cava,UBERON:0001072
+renal corpuscle,UBERON:0001229,glomerular capillary,UBERON:0004212,12,right atrium,UBERON:0002078
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-12,left ventricle,UBERON:0002084
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-11,aorta,UBERON:0000947
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-10,ascending aorta,UBERON:0001496
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-9,aortic arch,UBERON:0001508
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-8,descending aorta,UBERON:0001514
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-7,descending thoracic aorta,UBERON:0002345
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-6,abdominal aorta,UBERON:0001516
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-5,renal artery,UBERON:0001184
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-4,segmental renal artery,FMA:70494
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-3,interlobar renal artery,UBERON:0009885
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-2,arcuate renal artery,UBERON:0001552
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,-1,interlobular renal artery,UBERON:0004723
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,0,renal afferent arteriole,UBERON:0004639
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,1,glomerular capillary,UBERON:0004212
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,2,renal efferent arteriole,UBERON:0004640
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,3,descending vasa recta of kidney,UBERON:0009202
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,4,vasa recta of kidney,UBERON:0004726
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,5,ascending vasa recta of kidney,UBERON:0009091
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,6,straight venule of kidney,UBERON:0010181
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,7,interlobular renal vein,UBERON:0005168
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,8,arcuate renal vein,UBERON:0004719
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,9,interlobar renal vein,UBERON:0009887
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,10,segmental renal vein,
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,11,renal vein,UBERON:0001140
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,12,inferior vena cava,UBERON:0001072
+renal corpuscle,UBERON:0001229,renal afferent arteriole,UBERON:0004639,13,right atrium,UBERON:0002078
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-14,left ventricle,UBERON:0002084
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-13,aorta,UBERON:0000947
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-12,ascending aorta,UBERON:0001496
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-11,aortic arch,UBERON:0001508
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-10,descending aorta,UBERON:0001514
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-9,descending thoracic aorta,UBERON:0002345
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-8,abdominal aorta,UBERON:0001516
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-7,renal artery,UBERON:0001184
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-6,segmental renal artery,FMA:70494
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-5,interlobar renal artery,UBERON:0009885
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-4,arcuate renal artery,UBERON:0001552
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-3,interlobular renal artery,UBERON:0004723
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-2,renal afferent arteriole,UBERON:0004639
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,-1,glomerular capillary,UBERON:0004212
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,0,renal efferent arteriole,UBERON:0004640
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,1,descending vasa recta of kidney,UBERON:0009202
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,2,vasa recta of kidney,UBERON:0004726
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,3,ascending vasa recta of kidney,UBERON:0009091
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,4,straight venule of kidney,UBERON:0010181
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,5,interlobular renal vein,UBERON:0005168
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,6,arcuate renal vein,UBERON:0004719
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,7,interlobar renal vein,UBERON:0009887
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,8,segmental renal vein,
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,9,renal vein,UBERON:0001140
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,10,inferior vena cava,UBERON:0001072
+renal corpuscle,UBERON:0001229,renal efferent arteriole,UBERON:0004640,11,right atrium,UBERON:0002078
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-15,left ventricle,UBERON:0002084
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-14,aorta,UBERON:0000947
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-13,ascending aorta,UBERON:0001496
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-12,aortic arch,UBERON:0001508
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-11,descending aorta,UBERON:0001514
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-10,descending thoracic aorta,UBERON:0002345
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-9,abdominal aorta,UBERON:0001516
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-8,renal artery,UBERON:0001184
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-7,segmental renal artery,FMA:70494
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-6,interlobar renal artery,UBERON:0009885
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-5,arcuate renal artery,UBERON:0001552
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-4,interlobular renal artery,UBERON:0004723
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-3,renal afferent arteriole,UBERON:0004639
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-2,glomerular capillary,UBERON:0004212
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,-1,renal efferent arteriole,UBERON:0004640
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,0,peritubular capillary,UBERON:0005272
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,1,stellate venule of kidney,FMA:321526
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,2,interlobular renal vein,UBERON:0005168
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,3,arcuate renal vein,UBERON:0004719
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,4,interlobar renal vein,UBERON:0009887
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,5,segmental renal vein,
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,6,renal vein,UBERON:0001140
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,7,inferior vena cava,UBERON:0001072
+thick ascending limb of loop of Henle,UBERON:0001291,peritubular capillary,UBERON:0005272,8,right atrium,UBERON:0002078
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,-8,left ventricle,UBERON:0002084
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,-7,aorta,UBERON:0000947
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,-6,ascending aorta,UBERON:0001496
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,-5,aortic arch,UBERON:0001508
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,-4,subclavian artery,UBERON:0001533
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,-3,internal thoracic artery,UBERON:0002456
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,-2,thymic artery,UBERON:0018243
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,-1,thymic arteriole,
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,0,thymic capillary,FMA:280943
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,1,thymic venule,
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,2,thymic vein,UBERON:0001591
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,3,left brachiocephalic vein,FMA:4761
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,4,superior vena cava,UBERON:0001585
+thymus lobule,UBERON:0002125,thymic capillary,fma280943,5,right atrium,UBERON:0002078
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-16,left ventricle,UBERON:0002084
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-15,aorta,UBERON:0000947
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-14,ascending aorta,UBERON:0001496
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-13,aortic arch,UBERON:0001508
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-12,descending aorta,UBERON:0001514
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-11,descending thoracic aorta,UBERON:0002345
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-10,abdominal aorta,UBERON:0001516
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-9,celiac artery,UBERON:0001640
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-8,splenic artery,UBERON:0001194
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-7,lobar artery of spleen,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-6,segmental branch of lobar artery of spleen,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-5,spleen trabecular artery,UBERON:0010399
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-4,spleen central arteriole,UBERON:0010401
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-3,non-penicillar arteriole of spleen,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-2,sheathed capillary of spleen,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,-1,superficial white pulp capillary of spleen,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,0,branch of superficial white pulp capillary of spleen,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,1,superficial white pulp capillary of spleen,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,2,sheathed capillary of spleen,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,3,post-sheath open capillary of spleen,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,4,splenic venous sinusoid,UBERON:0003910
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,5,red pulp venule of spleen,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,6,spleen trabecular vein,UBERON:0010400
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,7,splenic vein,UBERON:0003713
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,8,hepatic portal vein,UBERON:0001639
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,9,left hepatic portal vein,FMA:15415
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,10,left lateral hepatic portal vein,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,11,lateral inferior segmental hepatic portal vein,FMA:15432
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,12,hepatic portal venule,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,13,hepatic sinusoid,UBERON:0001281
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,14,central vein of liver,UBERON:0006841
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,15,segmental hepatic vein,
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,16,left hepatic vein,UBERON:0011955
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,17,inferior vena cava,UBERON:0001072
+white pulp of spleen,UBERON:0001959,branch of superficial white pulp capillary of spleen,,18,right atrium,UBERON:0002078
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-13,left ventricle,UBERON:0002084
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-12,aorta,UBERON:0000947
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-11,ascending aorta,UBERON:0001496
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-10,aortic arch,UBERON:0001508
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-9,descending aorta,UBERON:0001514
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-8,descending thoracic aorta,UBERON:0002345
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-7,abdominal aorta,UBERON:0001516
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-6,celiac artery,UBERON:0001640
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-5,splenic artery,UBERON:0001194
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-4,lobar artery of spleen,
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-3,segmental branch of lobar artery of spleen,
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-2,spleen trabecular artery,UBERON:0010399
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,-1,spleen central arteriole,UBERON:0010401
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,0,secondary follicle arteriole of spleen,
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,1,sheathed capillary of spleen,
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,2,post-sheath open capillary of spleen,
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,3,superficial white pulp capillary of spleen,
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,4,splenic venous sinusoid,UBERON:0003910
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,5,red pulp venule of spleen,
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,6,spleen trabecular vein,UBERON:0010400
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,7,splenic vein,UBERON:0003713
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,8,hepatic portal vein,UBERON:0001639
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,9,left hepatic portal vein,FMA:15415
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,10,left lateral hepatic portal vein,
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,11,lateral inferior segmental hepatic portal vein,FMA:15432
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,12,hepatic portal venule,
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,13,hepatic sinusoid,UBERON:0001281
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,14,central vein of liver,UBERON:0006841
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,15,segmental hepatic vein,
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,16,left hepatic vein,UBERON:0011955
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,17,inferior vena cava,UBERON:0001072
+white pulp of spleen,UBERON:0001959,secondary follicle arteriole of spleen,,18,right atrium,UBERON:0002078
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-12,left ventricle,UBERON:0002084
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-11,aorta,UBERON:0000947
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-10,ascending aorta,UBERON:0001496
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-9,aortic arch,UBERON:0001508
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-8,descending aorta,UBERON:0001514
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-7,descending thoracic aorta,UBERON:0002345
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-6,abdominal aorta,UBERON:0001516
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-5,celiac artery,UBERON:0001640
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-4,splenic artery,UBERON:0001194
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-3,lobar artery of spleen,
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-2,segmental branch of lobar artery of spleen,
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,-1,spleen trabecular artery,UBERON:0010399
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,0,spleen central arteriole,UBERON:0010401
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,1,non-penicillar arteriole of spleen,
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,2,sheathed capillary of spleen,
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,3,post-sheath open capillary of spleen,
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,4,splenic venous sinusoid,UBERON:0003910
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,5,red pulp venule of spleen,
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,6,spleen trabecular vein,UBERON:0010400
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,7,splenic vein,UBERON:0003713
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,8,hepatic portal vein,UBERON:0001639
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,9,left hepatic portal vein,FMA:15415
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,10,left lateral hepatic portal vein,
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,11,lateral inferior segmental hepatic portal vein,FMA:15432
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,12,hepatic portal venule,
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,13,hepatic sinusoid,UBERON:0001281
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,14,central vein of liver,UBERON:0006841
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,15,segmental hepatic vein,
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,16,left hepatic vein,UBERON:0011955
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,17,inferior vena cava,UBERON:0001072
+white pulp of spleen,UBERON:0001959,spleen central arteriole,UBERON:0010401,18,right atrium,UBERON:0002078
