@@ -2,7 +2,7 @@
 
 There is a Python notebooks used to compile data and render visualizations.
 
--> Create a 6-foot (26” or 193 cm) diameter poster using ASCT+B and Blood vasculature data in a Butterfly Visual.
+* Create a 6-foot (26” or 193 cm) diameter poster using ASCT+B and Blood vasculature data in a Butterfly Visual.
    
 ### Butterfly Visualisation (HRA_Butterfly_viz.ipynb)
 ##### Input data
