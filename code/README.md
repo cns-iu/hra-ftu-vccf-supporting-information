@@ -6,7 +6,7 @@ A Python notebook is used to compile data and render visualizations.
    
 ### Butterfly Visualisation (HRA_Butterfly_viz.ipynb)
 ##### Input data
-There are two sources of data for the visualization, one is for the [organ partonomy network](./data/v14/), and the other one is for the [vascular network](./data/Vessels.csv). The data tables for the organs have been downloaded from the ASCT+B Reporter in “Graph Data” format which is a JSON file containing the nodes and the edges of the individual organ networks, which have the following format:
+There are two sources of data for the visualization, one is for the [organ partonomy network](./data/v14/), and the other one is for the [vascular network](./data/Vessel.csv). The data tables for the organs have been downloaded from the ASCT+B Reporter in “Graph Data” format which is a JSON file containing the nodes and the edges of the individual organ networks, which have the following format:
 
 ```json
 {
