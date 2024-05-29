@@ -1,4 +1,4 @@
-## Code for butterfly visualisation
+## Code for butterfly visualization
 
 A Python notebook is used to compile data and render visualizations.
 
