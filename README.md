@@ -33,7 +33,7 @@ A Python notebook is provided. Run HRA_Butterfly_viz.ipynb to generate a radial 
 
 The butterfly visualization code reads  data from the <a href="https://hubmapconsortium.github.io/ccf-asct-reporter" target="_blank">ASCT+B Reporter</a> in JSON format. It generates SVG files that can be combined and post-processed in a graphics editor like Adobe Illustrator to add a legend, title, FTUs, and any other information.
 
-The static version of this can be found in Zenodo under the DOI: <a href="https://zenodo.org/records/11477238" target="_blank">10.5281/zenodo.11477238</a>
+The static version of the data and code can be found in Zenodo under the DOI: <a href="https://zenodo.org/records/11477238" target="_blank">10.5281/zenodo.11477238</a>
    
 ### Visualization
 The directory features all files to view and print the 36" poster. To print the poster on a 36" printer, resize the two halves to 35.5".
