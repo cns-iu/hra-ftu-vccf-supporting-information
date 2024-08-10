@@ -1,13 +1,15 @@
 ## Functional Tissue Units in the Human Reference Atlas
 
-Supriya Bidanta<sup>1,4</sup>, Katy Börner<sup>1,4,5</sup>, Ellen M. Quardokus<sup>1</sup>, Bruce W. Herr II<sup>1</sup>, Marcell Nagy<sup>2</sup>, Katherine S. Gustilo<sup>1</sup>, Rachel Bajema<sup>1</sup>, Libby Maier<sup>1</sup>, Roland Molontay<sup>2</sup>, Griffin Weber<sup>3,5</sup>
+Supriya Bidanta<sup>1,5</sup>, Katy Börner<sup>1,5,6</sup>, Ellen M. Quardokus<sup>1</sup>, Bruce W. Herr II<sup>1</sup>, Marcell Nagy<sup>2</sup>, Katherine S. Gustilo<sup>1</sup>, Rachel Bajema<sup>1</sup>, Libby Maier<sup>1</sup>, Roland Molontay<sup>2,4</sup>, Griffin Weber<sup>3,6</sup>
 
 <sup>1</sup> Indiana University, Bloomington, IN; 
 <sup>2</sup> Budapest University of Technology and Economics, Budapest, Hungary;
-<sup>3</sup> Harvard Medical School, Boston, MA
+<sup>3</sup> Harvard Medical School, Boston, MA;
+<sup>4</sup> Institute of Biostatistics and Network Science, Semmelweis University, Budapest, Hungary
 
-<sup>4</sup> Contributed equally (co-first authors)
-<sup>5</sup> Corresponding authors 
+
+<sup>5</sup> Contributed equally (co-first authors)
+<sup>6</sup> Corresponding authors 
 
 Functional tissue units (FTUs) form the basic building blocks of organs and are important for understanding and modeling the healthy physiological function of the organ and changes that occur during disease states. In this first comprehensive catalog of 22 anatomically based, nested functional tissue units (FTUs) from 10 healthy human organs, we document the definition, physical dimensions, blood vasculature connections, and cellular composition. All anatomy terms are mapped to the multi-species Uber-anatomy Ontology (UBERON) and Cell Ontology (CL) to support computational access via standardized metadata. The catalog includes datasets, illustrations, and a large printable poster illustrating how the blood vasculature connects the 22 FTUs in 10 organs. All data and code are freely available. The work is part of an ongoing international effort to construct a Human Reference Atlas (HRA) of all cells in the human body.
 
