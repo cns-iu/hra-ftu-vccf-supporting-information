@@ -50,10 +50,14 @@ BODY = [Item('UBERON:0013702', 'body', 'AS', 'body', 'UBERON:0013702')]
 
 paths = []
 for table, rows in data.items():
+    organ = table.replace('-', '_')
+    # skip bonemarrow pelvis (it's old)
+    if organ == 'bonemarrow_pelvis':
+        continue 
     for row in rows['data']:
-        as_path = [get_item(item, table, 'AS')
+        as_path = [get_item(item, organ, 'AS')
                    for item in row['anatomical_structures']]
-        ct_path = [get_item(item, table, 'CT')
+        ct_path = [get_item(item, organ, 'CT')
                    for item in row['cell_types']]
         paths.append({
             'as': BODY + as_path,
