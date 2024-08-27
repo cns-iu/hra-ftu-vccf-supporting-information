@@ -26,9 +26,9 @@ def get_id(item):
 
 def get_label(item):
     if item['rdfs_label'].strip() == "":
-        return item['name']
+        return item['name'].strip()
     else:
-        return item['rdfs_label']
+        return item['rdfs_label'].strip()
 
 
 @dataclass
@@ -48,12 +48,12 @@ def get_item(item, organ, type):
 
 BODY = [Item('UBERON:0013702', 'body', 'AS', 'body', 'UBERON:0013702')]
 
+skip_organs = set(['bonemarrow-pelvis', 'anatomical-systems'])
+tables = list(sorted(filter(lambda x: x not in skip_organs, data.keys())))
 paths = []
-for table, rows in data.items():
+for table in tables:
+    rows = data[table]
     organ = table.replace('-', '_')
-    # skip bonemarrow pelvis (it's old)
-    if organ == 'bonemarrow_pelvis':
-        continue 
     for row in rows['data']:
         as_path = [get_item(item, organ, 'AS')
                    for item in row['anatomical_structures']]
