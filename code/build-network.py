@@ -131,7 +131,7 @@ print('has cycles?', nx.algorithms.dag.has_cycle(tree))
 print('duplicated nodes:', dup)
 nx.write_graphml_lxml(tree, 'data/asct-tree.graphml')
 nx.nx_agraph.write_dot(tree, 'data/asct-tree.dot')
-
+nx.nx_agraph.to_agraph(tree).draw('data/asct-tree.svg', prog='dot')
 
 with open('data/asct-nodes.csv', 'w', newline='') as csvfile:
     header = ['id', 'name', 'type', 'organ', 'ontology_id']
