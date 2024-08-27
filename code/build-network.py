@@ -48,7 +48,7 @@ def get_item(item, organ, type):
 
 BODY = [Item('UBERON:0013702', 'body', 'AS', 'body', 'UBERON:0013702')]
 
-skip_organs = set(['bonemarrow-pelvis', 'anatomical-systems'])
+skip_organs = set(['bonemarrow-pelvis', 'blood-vasculature', 'anatomical-systems'])
 tables = list(sorted(filter(lambda x: x not in skip_organs, data.keys())))
 paths = []
 for table in tables:
@@ -85,7 +85,6 @@ for path in paths:
             elif tree.has_node(target.id):
                 dup += 1
                 target.id = f"{target.id}$${dup}"
-                add_node(tree, target)
 
             if not tree.has_node(target.id):
                 add_node(tree, target)
@@ -95,6 +94,7 @@ for path in paths:
 
 print('is tree?', nx.is_tree(tree))
 nx.write_graphml_lxml(tree, 'data/asct-tree.graphml')
+nx.nx_agraph.write_dot(tree, 'data/asct-tree.dot')
 
 
 with open('data/asct-nodes.csv', 'w', newline='') as csvfile:

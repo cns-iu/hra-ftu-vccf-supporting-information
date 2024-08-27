@@ -1,8 +1,9 @@
 import pandas as pd
 
 # URLs for the data
-nodes_url = "https://raw.githubusercontent.com/cns-iu/hra-ftu-vccf-supporting-information/main/code/data/asct-nodes.csv" 
-edges_url = "https://raw.githubusercontent.com/cns-iu/hra-ftu-vccf-supporting-information/main/code/data/asct-edges.csv"
+nodes_url = "./data/asct-nodes.csv" 
+edges_url = "./data/asct-edges.csv"
+
 
 # Load the data
 nodes = pd.read_csv(nodes_url)
