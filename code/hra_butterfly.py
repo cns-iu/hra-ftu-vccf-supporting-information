@@ -1,5 +1,4 @@
 import pandas as pd
-pd.options.display.max_columns = None
 
 # URLs for the data
 nodes_url = "https://raw.githubusercontent.com/cns-iu/hra-ftu-vccf-supporting-information/main/code/data/asct-nodes.csv" 
