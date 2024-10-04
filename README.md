@@ -22,7 +22,7 @@ The repo is structured in the following way:
 ```
 
 ### Data
-The data folder contains 1 supplemental table with information on blood vasculature in all 22 FTUs.
+The data folder contains 1 supplemental data with information on blood vasculature in all 22 FTUs.
   
 ### Code
 A Python notebook is provided. Run HRA_Butterfly_viz.ipynb to generate a radial tree butterfly resembling visualization of the anatomical structures partonomy with an overlay of the vasculature tree that connects the chambers of the heart in the center via increasingly smaller vessels to the 22 FTUs.
