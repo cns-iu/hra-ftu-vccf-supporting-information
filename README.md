@@ -1,11 +1,11 @@
 ## Functional Tissue Units in the Human Reference Atlas
 
-Supriya Bidanta<sup>1,5</sup>, Katy Börner<sup>1,5,6</sup>, Ellen M. Quardokus<sup>1</sup>, Bruce W. Herr II<sup>1</sup>, Marcell Nagy<sup>2</sup>, Katherine S. Gustilo<sup>1</sup>, Rachel Bajema<sup>1</sup>, Libby Maier<sup>1</sup>, Roland Molontay<sup>2,4</sup>, Griffin Weber<sup>3,6</sup>
+Supriya Bidanta<sup>1,5</sup>, Katy Börner<sup>1,5,6</sup>, Ellen M. Quardokus<sup>1</sup>, Bruce W. Herr II<sup>1</sup>, Marcell Nagy<sup>2</sup>, Katherine S. Gustilo<sup>1</sup>, Rachel Bajema<sup>1</sup>, Libby Maier<sup>1</sup>, Roland Molontay<sup>2,3</sup>, Griffin Weber<sup>4,6</sup>
 
 <sup>1</sup> Indiana University, Bloomington, IN; 
 <sup>2</sup> Budapest University of Technology and Economics, Budapest, Hungary;
-<sup>3</sup> Harvard Medical School, Boston, MA;
-<sup>4</sup> Institute of Biostatistics and Network Science, Semmelweis University, Budapest, Hungary
+<sup>3</sup> Institute of Biostatistics and Network Science, Semmelweis University, Budapest, Hungary;
+<sup>4</sup> Harvard Medical School, Boston, MA
 
 
 <sup>5</sup> Contributed equally (co-first authors)
