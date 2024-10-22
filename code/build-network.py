@@ -55,7 +55,7 @@ def get_item(item, organ, type):
         node_id = id
     return Item(node_id, label, type, organ, id)
 
-
+BLOOD_VASCULATURE = Item("UBERON:0000948", "heart", "AS", "blood_vasculature", "UBERON:0000948")
 BODY = Item("UBERON:0013702", "body", "AS", "body", "UBERON:0013702")
 SYSTEMS = [
     "anatomical-systems",
@@ -75,6 +75,9 @@ for table in tables:
     for row in rows["data"]:
         as_path = [get_item(item, organ, "AS") for item in row["anatomical_structures"]]
         ct_path = [get_item(item, organ, "CT") for item in row["cell_types"]]
+
+        if organ == "blood_vasculature":
+            as_path[0] = BLOOD_VASCULATURE
         paths.append({"as": as_path, "ct": ct_path})
 
 
