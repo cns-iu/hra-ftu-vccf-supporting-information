@@ -1,6 +1,7 @@
 import csv
 import re
 from dataclasses import dataclass
+from collections import defaultdict
 
 import networkx as nx
 import requests
@@ -55,7 +56,10 @@ def get_item(item, organ, type):
         node_id = id
     return Item(node_id, label, type, organ, id)
 
-BLOOD_VASCULATURE = Item("UBERON:0000948", "heart", "AS", "blood_vasculature", "UBERON:0000948")
+
+BLOOD_VASCULATURE = Item(
+    "UBERON:0000948", "heart", "AS", "blood_vasculature", "UBERON:0000948"
+)
 BODY = Item("UBERON:0013702", "body", "AS", "body", "UBERON:0013702")
 SYSTEMS = [
     "anatomical-systems",
@@ -65,6 +69,7 @@ SYSTEMS = [
     "muscular-system",
     "skeleton",
 ]
+SECONDARY_NETWORK = set(["blood_vasculature"])
 
 skip_organs = set(["bonemarrow-pelvis"] + SYSTEMS)
 tables = SYSTEMS + list(sorted(filter(lambda x: x not in skip_organs, data.keys())))
@@ -78,7 +83,7 @@ for table in tables:
 
         if organ == "blood_vasculature":
             as_path[0] = BLOOD_VASCULATURE
-        paths.append({"as": as_path, "ct": ct_path})
+        paths.append({"organ": organ, "as": as_path, "ct": ct_path})
 
 
 tree = nx.DiGraph()
@@ -144,6 +149,8 @@ for path in paths:
 print("is tree?", nx.is_tree(tree))
 print("has cycles?", nx.algorithms.dag.has_cycle(tree))
 print("duplicated nodes:", dup)
+print("nodes:", nx.number_of_nodes(tree))
+print("edges:", nx.number_of_edges(tree))
 nx.write_graphml_lxml(tree, "data/asct-tree.graphml")
 nx.nx_agraph.write_dot(tree, "data/asct-tree.dot")
 nx.nx_agraph.to_agraph(tree).draw("data/asct-tree.svg", prog="dot")
@@ -157,6 +164,56 @@ with open("data/asct-nodes.csv", "w", newline="") as csvfile:
         writer.writerow([data[col] for col in header])
 
 with open("data/asct-edges.csv", "w", newline="") as csvfile:
+    header = ["organ", "source", "target", "source_type", "target_type"]
+    writer = csv.writer(csvfile)
+
+    writer.writerow(header)
+    for id, data in tree.edges.items():
+        writer.writerow([data[col] for col in header])
+
+
+node_lookup = defaultdict(list)
+for id, data in tree.nodes.items():
+    node_lookup[data["ontology_id"]].append(data)
+
+orig_tree = tree
+tree = nx.DiGraph()
+
+for path in paths:
+    if path["organ"] in SECONDARY_NETWORK:
+        if INCLUDE_CELL_TYPES:
+            as_path = path["as"] + path["ct"]
+        else:
+            as_path = path["as"]
+
+        for src in range(len(as_path) - 1):
+            orig_source, orig_target = as_path[src], as_path[src + 1]
+
+            for source in node_lookup[orig_source.ontology_id]:
+                for target in node_lookup[orig_target.ontology_id]:
+                    if orig_target.type == "CT":
+                        add_edge = orig_tree.has_edge(source["id"], target["id"])
+                    elif orig_target.type == "AS":
+                        add_edge = True
+
+                    if add_edge and not tree.has_edge(source["id"], target["id"]):
+                        tree.add_edge(
+                            source["id"],
+                            target["id"],
+                            organ=target["organ"],
+                            source=source["id"],
+                            target=target["id"],
+                            source_type=source["type"],
+                            target_type=target["type"],
+                        )
+
+print("secondary network is tree?", nx.is_tree(tree))
+print("secondary network has cycles?", nx.algorithms.dag.has_cycle(tree))
+print("secondary nodes:", nx.number_of_nodes(tree))
+print("secondary edges:", nx.number_of_edges(tree))
+nx.nx_agraph.to_agraph(tree).draw("data/asct-blood-vasculature.svg", prog="dot")
+
+with open("data/asct-blood-vasculature-edges.csv", "w", newline="") as csvfile:
     header = ["organ", "source", "target", "source_type", "target_type"]
     writer = csv.writer(csvfile)
 
