@@ -9,6 +9,9 @@ import requests
 # Include cell types in the graph?
 INCLUDE_CELL_TYPES = True
 
+# Include sytems in the graph?
+INCLUDE_SYSTEMS = False
+
 # Make sure nodes are unique to each table?
 FACET_BY_TABLE = False
 
@@ -72,7 +75,12 @@ SYSTEMS = [
 SECONDARY_NETWORK = set(["blood_vasculature"])
 
 skip_organs = set(["bonemarrow-pelvis"] + SYSTEMS)
-tables = SYSTEMS + list(sorted(filter(lambda x: x not in skip_organs, data.keys())))
+tables = list(sorted(filter(lambda x: x not in skip_organs, data.keys())))
+if INCLUDE_SYSTEMS:
+    tables = SYSTEMS + tables
+else:
+    tables = ["blood-vasculature"] + tables
+
 paths = []
 for table in tables:
     rows = data[table]
