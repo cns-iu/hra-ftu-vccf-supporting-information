@@ -227,7 +227,7 @@ def construct_network_create_vega_viz(nodes_dataframe, edges_dataframe, filename
     nodes_json = [nodes_json[i] for i in nodes_json.keys()]
     
     # load the vega config file
-    with open('viz_v2.0/vega_config/vega_config.json', encoding='utf8') as json_file:
+    with open('vega_config.json', encoding='utf8') as json_file:
         config = json.load(json_file)
 
     # set the data in the config file
