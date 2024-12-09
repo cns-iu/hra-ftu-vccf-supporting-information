@@ -30,7 +30,7 @@ A Python notebook is provided. Run HRA_Butterfly_viz.ipynb to generate a radial 
 ##### Prerequisite:
   - Python (version > 3.12)
   - for the ipynb vs code/pycharm/data spell (or something other than jupyter) is recommended.
-  - packages: pyvis, networkx, datashader, vl_convert, svgutils  
+  - packages: pandas, numpy, matplotlib, json, networkx, datashader, vl_convert, svgutils  
 
 The butterfly visualization code reads data from the <a href="https://humanatlas.io/asctb-reporter" target="_blank">ASCT+B Reporter</a> in JSON format. It generates SVG files that can be combined and post-processed in a graphics editor like Adobe Illustrator to add a legend, title, FTUs, and any other information.
 
