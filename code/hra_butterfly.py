@@ -8,10 +8,13 @@ import vl_convert as vlc
 from datashader.bundling import hammer_bundle
 import svgutils.transform as st
 
+# Directory for butterfly outputs
+OUTPUT_DIR='./viz_v2.0'
 
 # URLs for the data
-nodes_url = "https://raw.githubusercontent.com/cns-iu/hra-ftu-vccf-supporting-information/main/code/data/asct-nodes.csv" 
-edges_url = "https://raw.githubusercontent.com/cns-iu/hra-ftu-vccf-supporting-information/main/code/data/asct-edges.csv"
+nodes_url = "./data/asct-nodes.csv" 
+edges_url = "./data/asct-edges.csv"
+blood_edges_url = "./data/asct-blood-vasculature-edges.csv"
 
 # Load the data
 nodes = pd.read_csv(nodes_url)
@@ -238,9 +241,9 @@ def construct_network_create_vega_viz(nodes_dataframe, edges_dataframe, filename
         config['marks'][-1]['encode']['update']['opacity']['signal'] = config['marks'][-1]['encode']['update']['opacity']['signal'][:-1] + '1' # show the labels, by default they are hidden
     
     # create the json file and save it
-    with open(f"viz_v2.0/{fn}_vega_viz_config.json", "w") as outfile:
+    with open(f"{OUTPUT_DIR}/{fn}_vega_viz_config.json", "w") as outfile:
         outfile.write(json.dumps(config, indent=4))
-        print(f'File saved as "viz_v2.0/{fn}_vega_viz.json"')
+        print(f'File saved as "{OUTPUT_DIR}/{fn}_vega_viz.json"')
     
     return config
 
@@ -288,7 +291,7 @@ def create_vega_viz(config, filename, scenegraph=False):
     if scenegraph:
         scenegraph_data = vlc.vega_to_scenegraph(vg_spec=config)
 
-        with open(f"viz_v2.0/vega_{filename}_scenegraph.json", "w") as outfile:
+        with open(f"{OUTPUT_DIR}/vega_{filename}_scenegraph.json", "w") as outfile:
             outfile.write(json.dumps(scenegraph_data, indent=4))
 
         return scenegraph_data
@@ -296,7 +299,7 @@ def create_vega_viz(config, filename, scenegraph=False):
     else:
         svg_str = vlc.vega_to_svg(vg_spec=config,)
 
-        with open(f"viz_v2.0/vega_{filename}_viz.svg", "wt") as f:
+        with open(f"{OUTPUT_DIR}/vega_{filename}_viz.svg", "wt") as f:
             f.write(svg_str)
 
         return svg_str
@@ -327,8 +330,6 @@ coordinates_of_nodes_mal = get_node_coordinates(scenegraph_male)
 #######################################################################################################################
 
 # Vascular network
-
-blood_edges_url = "https://raw.githubusercontent.com/cns-iu/hra-ftu-vccf-supporting-information/main/code/data/asct-blood-vasculature-edges.csv"
 
 blood_edges = pd.read_csv(blood_edges_url)
 
@@ -469,8 +470,8 @@ def get_coordinates_for_blood_nodes(coordinates_of_nodes, only_female=False, onl
         plt.margins(0,0)
         plt.gca().xaxis.set_major_locator(plt.NullLocator())
         plt.gca().yaxis.set_major_locator(plt.NullLocator())
-        plt.savefig(f'./viz_v2.0/blood_viz_{filename}.pdf',  transparent=True, pad_inches=0.0, bbox_inches=0)
-        print(f'Fig saved as "./viz_v2.0/blood_viz_{filename}.pdf"')
+        plt.savefig(f'{OUTPUT_DIR}/blood_viz_{filename}.pdf',  transparent=True, pad_inches=0.0, bbox_inches=0)
+        print(f'Fig saved as "{OUTPUT_DIR}/blood_viz_{filename}.pdf"')
         plt.show()
 
     else:
@@ -515,8 +516,8 @@ def get_coordinates_for_blood_nodes(coordinates_of_nodes, only_female=False, onl
         plt.gca().xaxis.set_major_locator(plt.NullLocator())
         plt.gca().yaxis.set_major_locator(plt.NullLocator())
         
-        plt.savefig(f'./viz_v2.0/blood_viz_{filename}_bundled.svg', pad_inches=0.0, transparent=True, bbox_inches=0)
-        print(f'Fig saved as "./viz_v2.0/blood_viz_{filename}_bundled.svg"')
+        plt.savefig(f'{OUTPUT_DIR}/blood_viz_{filename}_bundled.svg', pad_inches=0.0, transparent=True, bbox_inches=0)
+        print(f'Fig saved as "{OUTPUT_DIR}/blood_viz_{filename}_bundled.svg"')
         plt.show()
     
         
@@ -532,20 +533,20 @@ get_coordinates_for_blood_nodes(coordinates_of_nodes_fem, only_male=True, bundle
 
 # Overlay the two networks
 
-template = st.fromfile('./viz_v2.0/vega_female_viz.svg', )
-second_svg = st.fromfile('./viz_v2.0/blood_viz_female_bundled.svg')
+template = st.fromfile(f'{OUTPUT_DIR}/vega_female_viz.svg', )
+second_svg = st.fromfile(f'{OUTPUT_DIR}/blood_viz_female_bundled.svg')
 
 template.set_size(size=('1720', '1720'))
 second_svg.set_size(size=('1720', '1720'))  
 
 template.append(second_svg)
-template.save('./viz_v2.0/female_butterfly_wing.svg')
+template.save(f'{OUTPUT_DIR}/female_butterfly_wing.svg')
 
 
-template = st.fromfile('./viz_v2.0/vega_male_viz.svg')
+template = st.fromfile(f'{OUTPUT_DIR}/vega_male_viz.svg')
 template.set_size(size=('1720', '1720'))
-second_svg = st.fromfile('./viz_v2.0/blood_viz_male_bundled.svg')
+second_svg = st.fromfile(f'{OUTPUT_DIR}/blood_viz_male_bundled.svg')
 second_svg.set_size(size=('1720', '1720'))
 
 template.append(second_svg)
-template.save('./viz_v2.0/male_butterfly_wing.svg')
+template.save(f'{OUTPUT_DIR}/male_butterfly_wing.svg')
