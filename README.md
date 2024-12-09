@@ -28,10 +28,9 @@ The data folder contains 1 supplemental data with information on blood vasculatu
 A Python notebook is provided. Run HRA_Butterfly_viz.ipynb to generate a radial tree butterfly resembling visualization of the anatomical structures partonomy with an overlay of the vasculature tree that connects the chambers of the heart in the center via increasingly smaller vessels to the 22 FTUs.
 
 ##### Prerequisite:
-  - Python (version > 3.9)
-  - pycharm (recommended)
-  - jupyter
-  - packages: pyvis, networkx, datashader  
+  - Python (version > 3.12)
+  - for the ipynb vs code/pycharm/data spell (or something other than jupyter) is recommended.
+  - packages: pyvis, networkx, datashader, vl_convert, svgutils  
 
 The butterfly visualization code reads data from the <a href="https://humanatlas.io/asctb-reporter" target="_blank">ASCT+B Reporter</a> in JSON format. It generates SVG files that can be combined and post-processed in a graphics editor like Adobe Illustrator to add a legend, title, FTUs, and any other information.
 
