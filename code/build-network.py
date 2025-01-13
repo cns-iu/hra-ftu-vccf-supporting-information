@@ -15,7 +15,7 @@ INCLUDE_SYSTEMS = False
 # Make sure nodes are unique to each table?
 FACET_BY_TABLE = False
 
-ASCTB_DATA = "https://cdn.humanatlas.io/hra-asctb-json-releases/hra-asctb-all.v2.1.json"
+ASCTB_DATA = "https://cdn.humanatlas.io/hra-asctb-json-releases/hra-asctb-all.v2.2.json"
 data = requests.get(ASCTB_DATA).json()
 
 
