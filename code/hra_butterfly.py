@@ -1,20 +1,29 @@
 import pandas as pd
+import os
 import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
 import json
+import argparse
 
 import vl_convert as vlc
 from datashader.bundling import hammer_bundle
 import svgutils.transform as st
 
+VERSION = "v2.2"
 # Directory for butterfly outputs
-OUTPUT_DIR='./viz_v2.0'
+OUTPUT_DIR= './viz_' + VERSION
 
 # URLs for the data
 nodes_url = "./data/asct-nodes.csv" 
 edges_url = "./data/asct-edges.csv"
 blood_edges_url = "./data/asct-blood-vasculature-edges.csv"
+
+dirname = "GeeksForGeeks"
+if os.path.isdir(OUTPUT_DIR):
+    pass
+else:
+    os.mkdir(OUTPUT_DIR)
 
 # Load the data
 nodes = pd.read_csv(nodes_url)
@@ -526,13 +535,12 @@ def get_coordinates_for_blood_nodes(coordinates_of_nodes, only_female=False, onl
 get_coordinates_for_blood_nodes(coordinates_of_nodes_fem, only_female=True, bundle_edges=True)
 
 
-get_coordinates_for_blood_nodes(coordinates_of_nodes_fem, only_male=True, bundle_edges=True)
+get_coordinates_for_blood_nodes(coordinates_of_nodes_mal, only_male=True, bundle_edges=True)
 
 
 #######################################################################################################################
 
 # Overlay the two networks
-
 template = st.fromfile(f'{OUTPUT_DIR}/vega_female_viz.svg', )
 second_svg = st.fromfile(f'{OUTPUT_DIR}/blood_viz_female_bundled.svg')
 

@@ -15,7 +15,9 @@ INCLUDE_SYSTEMS = False
 # Make sure nodes are unique to each table?
 FACET_BY_TABLE = False
 
-ASCTB_DATA = "https://cdn.humanatlas.io/hra-asctb-json-releases/hra-asctb-all.v2.2.json"
+VERSION = "v2.2"
+
+ASCTB_DATA = "https://cdn.humanatlas.io/hra-asctb-json-releases/hra-asctb-all." + VERSION + ".json" # Modify to updated release version
 data = requests.get(ASCTB_DATA).json()
 
 
