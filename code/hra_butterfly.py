@@ -135,7 +135,6 @@ for node in node_visiting_order:
 
 nodes['keep'] = nodes.apply(lambda row: True if (row['organ']!='blood_vasculature' or row['graph_int_id'] in blood_nodes_candidates) else False, axis=1)
 
-#TODO: rename it to pruned_graph and pruned_nodes, and pruned_edges
 pruned_nodes = nodes[nodes['keep']]
 pruned_edges = edges[edges['source_int'].isin(pruned_nodes['graph_int_id']) | edges['target_int'].isin(pruned_nodes['graph_int_id'])]
 pruned_graph = nx.from_pandas_edgelist(pruned_edges, source='source_int', target='target_int', edge_attr=True)
