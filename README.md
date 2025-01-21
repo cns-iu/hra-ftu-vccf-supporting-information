@@ -11,8 +11,8 @@ Supriya Bidanta<sup>1,5</sup>, Katy Börner<sup>1,5,6</sup>, Ellen M. Quardokus<
 <sup>5</sup> Contributed equally (co-first authors)
 <sup>6</sup> Corresponding authors 
 
-Functional tissue units (FTUs) form the basic building blocks of organs and are important for understanding and modeling the healthy physiological function of the organ and changes that occur during disease states. In this first comprehensive catalog of 22 anatomically based, nested functional tissue units (FTUs) from 10 healthy human organs, we document the definition, physical dimensions, blood vasculature connections, and cellular composition. All anatomy terms are mapped to the multi-species Uber-anatomy Ontology (UBERON) and Cell Ontology (CL) to support computational access via standardized metadata. The catalog includes datasets, illustrations, and a large printable poster illustrating how the blood vasculature connects the 22 FTUs in 10 organs. All data and code are freely available. The work is part of an ongoing international effort to construct a Human Reference Atlas (HRA) of all cells in the human body.
-
+Functional tissue units (FTUs) form the basic building blocks of organs and are important for understanding and modeling the healthy physiological function of the organ and changes that occur during disease states. In this comprehensive catalog of 22 anatomically based, nested FTUs
+from 10 healthy human organs, we document the definition, physical dimensions, blood vasculature connections, and cellular composition. All anatomy terms are mapped to the multi-species Uber-anatomy Ontology(Uberon) and cells are mapped to the Cell Ontology to support computational access via standardized metadata. The catalog includes datasets, illustrations, and a large printable poster illustrating how the blood vasculature connects the 22 FTUs in 10 organs. All data and code are freely available (https://github.com/cns-iu/hra-ftu-vccf-supporting-information). The work is part of an ongoing international effort to construct a Human Reference Atlas of all the 37 trillion cells in that make up the healthy human body.
 The repo is structured in the following way:
 
 ```
@@ -22,7 +22,7 @@ The repo is structured in the following way:
 ```
 
 ### Data
-The data folder contains 1 supplemental data with information on blood vasculature in all 22 FTUs.
+The data folder contains two supplemental data with information on the complete list of Anatomical Structures and Cell types in 22 FTUs and their blood vasculature.
   
 ### Code
 A Python notebook is provided. Run HRA_Butterfly_viz.ipynb to generate a radial tree butterfly resembling visualization of the anatomical structures partonomy with an overlay of the vasculature tree that connects the chambers of the heart in the center via increasingly smaller vessels to the 22 FTUs.
