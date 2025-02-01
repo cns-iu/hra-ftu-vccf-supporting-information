@@ -1,5 +1,6 @@
 import csv
 import re
+import os
 from dataclasses import dataclass
 from collections import defaultdict
 
@@ -16,6 +17,13 @@ INCLUDE_SYSTEMS = False
 FACET_BY_TABLE = False
 
 VERSION = "v2.2"
+
+OUTPUT_DIR= './data/' + VERSION
+
+if os.path.isdir(OUTPUT_DIR):
+    pass
+else:
+    os.mkdir(OUTPUT_DIR)
 
 ASCTB_DATA = "https://cdn.humanatlas.io/hra-asctb-json-releases/hra-asctb-all." + VERSION + ".json" # Modify to updated release version
 data = requests.get(ASCTB_DATA).json()
@@ -161,11 +169,11 @@ print("has cycles?", nx.algorithms.dag.has_cycle(tree))
 print("duplicated nodes:", dup)
 print("nodes:", nx.number_of_nodes(tree))
 print("edges:", nx.number_of_edges(tree))
-nx.write_graphml_lxml(tree, "data/asct-tree.graphml")
-nx.nx_agraph.write_dot(tree, "data/asct-tree.dot")
-nx.nx_agraph.to_agraph(tree).draw("data/asct-tree.svg", prog="dot")
+nx.write_graphml_lxml(tree, OUTPUT_DIR + "/asct-tree.graphml")
+nx.nx_agraph.write_dot(tree, OUTPUT_DIR + "/asct-tree.dot")
+nx.nx_agraph.to_agraph(tree).draw(OUTPUT_DIR + "/asct-tree.svg", prog="dot")
 
-with open("data/asct-nodes.csv", "w", newline="") as csvfile:
+with open(OUTPUT_DIR + "/asct-nodes.csv", "w", newline="") as csvfile:
     header = ["id", "name", "type", "organ", "ontology_id"]
     writer = csv.writer(csvfile)
 
@@ -173,7 +181,7 @@ with open("data/asct-nodes.csv", "w", newline="") as csvfile:
     for id, data in tree.nodes.items():
         writer.writerow([data[col] for col in header])
 
-with open("data/asct-edges.csv", "w", newline="") as csvfile:
+with open(OUTPUT_DIR + "/asct-edges.csv", "w", newline="") as csvfile:
     header = ["organ", "source", "target", "source_type", "target_type"]
     writer = csv.writer(csvfile)
 
@@ -221,9 +229,9 @@ print("secondary network is tree?", nx.is_tree(tree))
 print("secondary network has cycles?", nx.algorithms.dag.has_cycle(tree))
 print("secondary nodes:", nx.number_of_nodes(tree))
 print("secondary edges:", nx.number_of_edges(tree))
-nx.nx_agraph.to_agraph(tree).draw("data/asct-blood-vasculature.svg", prog="dot")
+nx.nx_agraph.to_agraph(tree).draw(OUTPUT_DIR + "/asct-blood-vasculature.svg", prog="dot")
 
-with open("data/asct-blood-vasculature-edges.csv", "w", newline="") as csvfile:
+with open(OUTPUT_DIR + "/asct-blood-vasculature-edges.csv", "w", newline="") as csvfile:
     header = ["organ", "source", "target", "source_type", "target_type"]
     writer = csv.writer(csvfile)
 

@@ -1,1 +1,1 @@
-This folder contains the JSON files that were used to build the butterfly visualization.
+This folder contains files such as nodes, edges, and graphML used to create the butterfly visualization.

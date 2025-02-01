@@ -53477,7 +53477,7 @@
                         "signal": "datum.leftside ? 'right' : 'left'"
                     },
                     "opacity": {
-                        "signal": "labels ? 0.5 : 1"
+                        "signal": "datum.label ? 1 : 0"
                     }
                 }
             }

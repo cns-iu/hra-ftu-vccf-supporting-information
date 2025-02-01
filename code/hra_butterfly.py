@@ -15,11 +15,10 @@ VERSION = "v2.2"
 OUTPUT_DIR= './viz_' + VERSION
 
 # URLs for the data
-nodes_url = "./data/asct-nodes.csv" 
-edges_url = "./data/asct-edges.csv"
-blood_edges_url = "./data/asct-blood-vasculature-edges.csv"
+nodes_url = "./data/" + VERSION + "/asct-nodes.csv" 
+edges_url =  "./data/" + VERSION + "/asct-edges.csv"
+blood_edges_url =   "./data/" + VERSION + "/asct-blood-vasculature-edges.csv"
 
-dirname = "GeeksForGeeks"
 if os.path.isdir(OUTPUT_DIR):
     pass
 else:
@@ -238,7 +237,7 @@ def construct_network_create_vega_viz(nodes_dataframe, edges_dataframe, filename
     nodes_json = [nodes_json[i] for i in nodes_json.keys()]
     
     # load the vega config file
-    with open('vega_config.json', encoding='utf8') as json_file:
+    with open('./data/vega_config.json', encoding='utf8') as json_file:
         config = json.load(json_file)
 
     # set the data in the config file
@@ -529,8 +528,6 @@ def get_coordinates_for_blood_nodes(coordinates_of_nodes, only_female=False, onl
         plt.show()
     
         
-
-
 get_coordinates_for_blood_nodes(coordinates_of_nodes_fem, only_female=True, bundle_edges=True)
 
 
