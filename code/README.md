@@ -1,6 +1,6 @@
 ## Butterfly Visualization Workflow
 
-This project generates a comprehensive butterfly visualization using ASCT+B and Blood Vasculature data. The workflow consists of two key Python scrips: `build-network.py` and `HRA_Butterfly_viz_v3.ipynb`, which together process the data and render the visualization.
+This project generates a comprehensive butterfly visualization using ASCT+B and Blood Vasculature data. The workflow consists of two key Python scripts: `build-network.py` and `HRA_Butterfly_viz_v3.ipynb`, which together process the data and render the visualization.
 
 ### Workflow Overview
 1. **Data Compilation**:
