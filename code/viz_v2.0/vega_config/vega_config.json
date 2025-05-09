@@ -1,0 +1,206 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "An example of a radial layout for a node-link diagram of hierarchical data.",
+  "width": 1720,
+  "height": 1720,
+  "padding": 0,
+  "autosize": "none",
+  "signals": [
+    {"name": "labels", "value": false, "bind": {"input": "checkbox"}},
+    {
+      "name": "radius",
+      "value": 865,
+      "bind": {"input": "range", "min": 20, "max": 4000}
+    },
+    {
+      "name": "extent",
+      "value": 160,
+      "bind": {"input": "range", "min": 0, "max": 360, "step": 1}
+    },
+    {
+      "name": "rotate",
+      "value": 15,
+      "bind": {"input": "range", "min": 0, "max": 360, "step": 1}
+    },
+    {
+      "name": "layout",
+      "value": "tidy",
+      "bind": {"input": "radio", "options": ["tidy", "cluster"]}
+    },
+    {
+      "name": "links",
+      "value": "diagonal",
+      "bind": {
+        "input": "select",
+        "options": ["line", "curve", "diagonal", "orthogonal"]
+      }
+    },
+    {"name": "originX", "update": "width / 2"},
+    {"name": "originY", "update": "height / 2"}
+  ],
+  "data": [
+    {
+      "name": "tree",
+      "values": [
+        {
+          "id": 0,
+          "name": "Body",
+          "type": "AS",
+          "ontology_id": "UBERON:0013702",
+          "color": "#984ea3",
+          "organ": "body",
+          "organ_label": "",
+          "alpha": 0.511211774098372,
+          "radius": 0,
+          "depth": 0,
+          "children": 21,
+          "angle": 356.90600159672323,
+          "radians": 6.229184847990959,
+          "leftside": false,
+          "x": 860,
+          "y": 860
+        },
+        {
+          "id": 1,
+          "name": "Respiratory System",
+          "parent": 0,
+          "type": "AS",
+          "ontology_id": "UBERON:0001004",
+          "color": "#984ea3",
+          "organ": "lung",
+          "organ_label": "Respiratory System",
+          "alpha": 0.0357527161650873,
+          "radius": 45.526315789473685,
+          "depth": 1,
+          "children": 2,
+          "angle": 276.07796174806487,
+          "radians": 4.818469424698692,
+          "leftside": false,
+          "x": 864.8203992162016,
+          "y": 814.729599286517
+        },
+        {
+          "id": 2,
+          "name": "respiratory tract",
+          "parent": 1,
+          "type": "AS",
+          "ontology_id": "UBERON:0000065",
+          "color": "#984ea3",
+          "organ": "lung",
+          "organ_label": "",
+          "alpha": 0.02787323405880107,
+          "radius": 91.05263157894737,
+          "depth": 2,
+          "children": 1,
+          "angle": 274.7384497899962,
+          "radians": 4.795090530660557,
+          "leftside": false,
+          "x": 867.5216128716223,
+          "y": 769.2585703371334
+        }
+
+      ],
+      "transform": [
+        {"type": "stratify", "key": "id", "parentKey": "parent"},
+        {
+          "type": "tree",
+          "method": {"signal": "layout"},
+          "size": [1, {"signal": "radius"}],
+          "as": ["alpha", "radius", "depth", "children"]
+        },
+        {
+          "type": "formula",
+          "expr": "(rotate + extent * datum.alpha + 270) % 360",
+          "as": "angle"
+        },
+        {"type": "formula", "expr": "PI * datum.angle / 180", "as": "radians"},
+        {
+          "type": "formula",
+          "expr": "inrange(datum.angle, [90, 270])",
+          "as": "leftside"
+        },
+        {
+          "type": "formula",
+          "expr": "originX + datum.radius * cos(datum.radians)",
+          "as": "x"
+        },
+        {
+          "type": "formula",
+          "expr": "originY + datum.radius * sin(datum.radians)",
+          "as": "y"
+        }
+      ]
+    },
+    {
+      "name": "links",
+      "source": "tree",
+      "transform": [
+        {"type": "treelinks"},
+        {
+          "type": "linkpath",
+          "shape": {"signal": "links"},
+          "orient": "radial",
+          "sourceX": "source.radians",
+          "sourceY": "source.radius",
+          "targetX": "target.radians",
+          "targetY": "target.radius"
+        }
+      ]
+    }
+  ],
+  "marks": [
+    {
+      "type": "path",
+      "from": {"data": "links"},
+      "encode": {
+        "update": {
+          "x": {"signal": "originX"},
+          "y": {"signal": "originY"},
+          "path": {"field": "path"},
+          "stroke": {"value": "#ccc"},
+          "opacity": {"value": 0.7},
+          "strokeWidth": {"value": 0.5}
+        }
+      }
+    },
+    {
+      "type": "symbol",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "size": {"value": 12},
+          "stroke": {"value": "#fff"},
+          "strokeWidth": {"value": 0.2}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"},
+          "fill": {"field": "color"},
+          "opacity": {"value": 0.3}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "text": {"field": "name"},
+          "fontSize": {"value": 2},
+          "baseline": {"value": "middle"}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"},
+          "dx": {"signal": "(datum.leftside ? -1 : 1) * 6"},
+          "angle": {
+            "signal": "datum.leftside ? datum.angle - 180 : datum.angle"
+          },
+          "align": {"signal": "datum.leftside ? 'right' : 'left'"},
+          "opacity": {"signal": "labels ? 0.5 : 0"}
+        }
+      }
+    }
+  ],
+  "config": {}
+}
