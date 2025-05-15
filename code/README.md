@@ -126,7 +126,7 @@ Format of `Table_S1.csv` the file:
 
 4. **Final Layout**:  
 - Combines the anatomical hierarchy and blood vasculature layers for both male and female wings.  
-- Flips text horizontally for female wings to preserve readability in mirrored view.  
+- Flips text horizontally for female wing (or male wing, depending on use case), to preserve readability in mirrored view.  
 
 5. **Adobe Illustrator Integration**: 
 - Provides guidance for using Adobe Illustrator to overlay male and female wings and finalize the butterfly visualization.  
